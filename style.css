@@ -1,0 +1,22 @@
+
+body {
+	background: rgb(230, 230,230);
+    color: rgb(30,30, 30); 
+    font-family: Courrier
+}
+h1 {
+	color: black; 
+	font-family: Arial 
+}
+h2 { 
+color: blue;
+font-family: blue  }
+
+div {
+width: 1350px;
+background: white;
+padding: 100px ;                     	 /* White background */
+margin: 0px auto;                            /* Internal space */
+border-radius: 0px;                        /* Small radius */
+box-shadow: 0 10px 30px rgba(100,0,0,.1);    /* Light shadow */
+}
